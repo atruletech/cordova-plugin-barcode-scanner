@@ -21,7 +21,7 @@ phonegap/phonegap-plugin-barcodescanner
 Run this command in your project root:
 
 ```bash
-cordova plugin add cordova-plugin-barcode-scanner
+cordova plugin add https://github.com/atruletech/cordova-plugin-barcode-scanner
 ```
 
 ## Supported Platforms
